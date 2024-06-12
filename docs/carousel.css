@@ -1,0 +1,20 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: rgb(var(--bs-tertiary-color-rgb));
+}
+
+.featurette-divider {
+  margin: 3rem 0;
+}
+
+.featurette-heading {
+  text-align: center;
+  letter-spacing: -.05rem;
+  font-size: 50px;
+  margin-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
